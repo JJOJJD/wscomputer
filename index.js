@@ -44,6 +44,8 @@ app.use(cors());
 
 const componentRoutes = require("./routes/componentRoutes");
 app.use("/computerstore", componentRoutes);
-app.use(express.static("public"));
+app.get("/", (req, res) => {
+  res.json({ message: "Computer Components API is running" });
+});
 
 app.listen(port, () => console.log("Server is running on port " + port));
