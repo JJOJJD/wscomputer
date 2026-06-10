@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "RTX 5090",
+    "description": "High-end gaming graphics card",
+    "manufacturer": "NVIDIA",
+    "category": "GPU",
+    "model": "RTX 5090",
+    "price": 1999.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 2,
+    "name": "RTX 5080",
+    "description": "Premium graphics card for gaming and content creation",
+    "manufacturer": "NVIDIA",
+    "category": "GPU",
+    "model": "RTX 5080",
+    "price": 1199.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 3,
+    "name": "RX 8900 XTX",
+    "description": "High-performance AMD graphics card",
+    "manufacturer": "AMD",
+    "category": "GPU",
+    "model": "RX 8900 XTX",
+    "price": 999.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 4,
+    "name": "Ryzen 9 9950X",
+    "description": "Flagship AMD desktop processor",
+    "manufacturer": "AMD",
+    "category": "CPU",
+    "model": "9950X",
+    "price": 699.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 5,
+    "name": "Core i9-15900K",
+    "description": "High-end Intel processor",
+    "manufacturer": "Intel",
+    "category": "CPU",
+    "model": "i9-15900K",
+    "price": 649.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 6,
+    "name": "Kingston Fury Beast DDR5",
+    "description": "High-speed DDR5 memory kit",
+    "manufacturer": "Kingston",
+    "category": "RAM",
+    "model": "Fury Beast 32GB",
+    "price": 159.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 7,
+    "name": "Corsair Vengeance DDR5",
+    "description": "Gaming memory module",
+    "manufacturer": "Corsair",
+    "category": "RAM",
+    "model": "Vengeance 32GB",
+    "price": 149.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 8,
+    "name": "Samsung 990 Pro",
+    "description": "High-performance NVMe SSD",
+    "manufacturer": "Samsung",
+    "category": "SSD",
+    "model": "990 Pro 2TB",
+    "price": 189.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 9,
+    "name": "WD Black SN850X",
+    "description": "Gaming NVMe SSD",
+    "manufacturer": "Western Digital",
+    "category": "SSD",
+    "model": "SN850X 2TB",
+    "price": 169.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  },
+  {
+    "id": 10,
+    "name": "MSI MAG B650 Tomahawk",
+    "description": "ATX motherboard for AMD processors",
+    "manufacturer": "MSI",
+    "category": "Motherboard",
+    "model": "MAG B650 Tomahawk",
+    "price": 219.99,
+    "performanceScore": 0,
+    "valueScore": 0.0
+  }
+]

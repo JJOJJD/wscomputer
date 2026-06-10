@@ -1,0 +1,23 @@
+{
+  "name": "hw17customer",
+  "version": "1.0.0",
+  "description": "hello.js",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "license": "ISC",
+  "author": "David Rodriguez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3"
+  }
+}
